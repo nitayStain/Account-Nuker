@@ -7,7 +7,7 @@ Made by Virtual and Shokoloko.
 
 Usage:
 
-- Run pip install requests if you don't have the module.
+- Run `pip install requests` if you don't have the module.
 
 ```py
 import AccountNuker from Nuker
