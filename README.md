@@ -10,7 +10,7 @@ Usage:
 - Run `pip install requests` if you don't have the module.
 
 ```py
-import AccountNuker from Nuker
+from Nuker import AccountNuker
 nuker = AccountNuker(token=YOURTOKEN)
 nuker.nuke()
 ```
